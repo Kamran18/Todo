@@ -16,7 +16,7 @@ function TodoDetails({ getTodoDetails, deleteTodo }) {
 
   const handleClick = () => {
     deleteTodo(Number(id));
-    history.push('/');
+    history.push('/Todo');
   }
 
   return todo.length === 0 ? (

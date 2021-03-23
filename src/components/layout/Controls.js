@@ -7,7 +7,7 @@ import { RiAddCircleFill } from "react-icons/ri";
 function Controls() {
   return (
     <div className="controls">
-      <Link to="/" className="link">
+      <Link to="/Todo" className="link">
         <AiFillHome size={20}/>
       </Link>
       <Link to="/add-new" className="link">

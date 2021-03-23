@@ -40,7 +40,7 @@ export class App extends Component {
           <Navbar taskRemaining={this.state.todos.length} />
           <Controls />
           <Switch>
-            <Route exact path="/">
+            <Route exact path="/Todo">
               <List todoList={this.state.todos} />
             </Route>
             <Route path="/add-new">
