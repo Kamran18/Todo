@@ -10,7 +10,9 @@ function List({ todoList }) {
       {todoList.length === 0 ? (
         <div className="empty-list">
           <h1>Let's get some work done!</h1>
-          <Button>ADD ITEM</Button>
+          <Link to="/add-new" className="link-card">
+            <Button>ADD ITEM</Button>
+          </Link>
         </div>
       ) : (
         todoList.map((todo, index) => (

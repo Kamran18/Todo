@@ -7,7 +7,7 @@
 }
 
 .empty-list{
-    height: 100%;
+    min-height: 40vh;
     background: url('../img/work.svg') no-repeat;
     background-position-x: 40px;
     background-size: contain;

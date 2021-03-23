@@ -3,7 +3,6 @@ import "./Controls.css";
 import { Link } from "react-router-dom";
 import { AiFillHome } from "react-icons/ai";
 import { RiAddCircleFill } from "react-icons/ri";
-import { MdSort } from "react-icons/md";
 
 function Controls() {
   return (
