@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/todo/static/css/main.c32739fb.chunk.css",
-    "main.js": "/todo/static/js/main.5fb100bb.chunk.js",
-    "main.js.map": "/todo/static/js/main.5fb100bb.chunk.js.map",
-    "runtime-main.js": "/todo/static/js/runtime-main.4d216ed9.js",
-    "runtime-main.js.map": "/todo/static/js/runtime-main.4d216ed9.js.map",
-    "static/css/2.4c97ca4f.chunk.css": "/todo/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.dbd15d25.chunk.js": "/todo/static/js/2.dbd15d25.chunk.js",
-    "static/js/2.dbd15d25.chunk.js.map": "/todo/static/js/2.dbd15d25.chunk.js.map",
-    "index.html": "/todo/index.html",
-    "static/css/2.4c97ca4f.chunk.css.map": "/todo/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.c32739fb.chunk.css.map": "/todo/static/css/main.c32739fb.chunk.css.map",
-    "static/js/2.dbd15d25.chunk.js.LICENSE.txt": "/todo/static/js/2.dbd15d25.chunk.js.LICENSE.txt",
-    "static/media/NoMatch.css": "/todo/static/media/NoMatch.4d666cd1.svg",
-    "static/media/navbar.css": "/todo/static/media/mountainsSM.01935eea.svg",
-    "static/media/List.css": "/todo/static/media/work.071febe6.svg"
+    "main.css": "/Todo/static/css/main.2b2bf745.chunk.css",
+    "main.js": "/Todo/static/js/main.5fb100bb.chunk.js",
+    "main.js.map": "/Todo/static/js/main.5fb100bb.chunk.js.map",
+    "runtime-main.js": "/Todo/static/js/runtime-main.f5c1da56.js",
+    "runtime-main.js.map": "/Todo/static/js/runtime-main.f5c1da56.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/Todo/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.dbd15d25.chunk.js": "/Todo/static/js/2.dbd15d25.chunk.js",
+    "static/js/2.dbd15d25.chunk.js.map": "/Todo/static/js/2.dbd15d25.chunk.js.map",
+    "index.html": "/Todo/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/Todo/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.2b2bf745.chunk.css.map": "/Todo/static/css/main.2b2bf745.chunk.css.map",
+    "static/js/2.dbd15d25.chunk.js.LICENSE.txt": "/Todo/static/js/2.dbd15d25.chunk.js.LICENSE.txt",
+    "static/media/NoMatch.css": "/Todo/static/media/NoMatch.4d666cd1.svg",
+    "static/media/navbar.css": "/Todo/static/media/mountainsSM.01935eea.svg",
+    "static/media/List.css": "/Todo/static/media/work.071febe6.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.4d216ed9.js",
+    "static/js/runtime-main.f5c1da56.js",
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.dbd15d25.chunk.js",
-    "static/css/main.c32739fb.chunk.css",
+    "static/css/main.2b2bf745.chunk.css",
     "static/js/main.5fb100bb.chunk.js"
   ]
 }
