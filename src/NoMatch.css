@@ -1,0 +1,27 @@
+.no-match{
+    min-height: 55vh;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    background: linear-gradient( rgba(255, 255, 255, 0.425), rgba(255, 255, 255, 0.568) ),  url('./components/img/NoMatch.svg') no-repeat;
+    background-position: bottom;
+    background-size: contain;
+    background-color: #def4f6ff;
+    display: grid;
+    place-content: center;
+    padding: 20px;
+}
+
+@media only screen and (max-width: 600px) {
+    .no-match {
+        background-position: center;
+    }
+}
+
+.no-match > h6 {
+    margin-bottom: 20px;
+}
+
+.no-match-link{
+    color: white;
+    width: 100%;
+}

@@ -1,0 +1,14 @@
+.controls{
+    height: 60px;
+    display: flex;
+    align-items: center;
+}
+
+.link:hover{
+    text-decoration: none;
+}
+
+.link{
+    margin-left: 10px;
+}
+

@@ -1,0 +1,27 @@
+.head{
+    border-bottom: 1px solid whitesmoke;
+    min-height: 40px;
+    padding-bottom: 10px;
+}
+
+.todo-title{
+    padding-left: 13px;
+    text-transform: capitalize;
+}
+
+.todo-date{
+    text-align: end;
+}
+
+.body{
+    padding: 40px;
+    text-indent: 50px;
+    text-align: justify;
+    letter-spacing: 1px;
+}
+
+@media only screen and (max-width: 600px) {
+    .body{
+        padding: 10px 5px
+    }
+}
